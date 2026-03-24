@@ -1,0 +1,27 @@
+# Unity default
+/[Ll]ibrary/
+/[Pp]ackage[Cc]ache/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[MemoryCaptures]/
+
+# Root level files
+/*.sln
+/*.csproj
+/*.unitypackage
+
+# FMOD Studio specific
+*.fsproject.cache
+/Assets/Plugins/FMOD/Cache/*
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vs/
+.idea/
+.rider/
